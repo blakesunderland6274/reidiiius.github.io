@@ -1,5 +1,4 @@
-# reidiiius.github.io
-Music education resources
+its Evan
 
 ![nautilyph](https://raw.github.com/reidiiius/reidiiius.github.io/master/images/nautilyph.png)
 
